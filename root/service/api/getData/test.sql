@@ -1,0 +1,1 @@
+select * from article_group where c_id='##id##'

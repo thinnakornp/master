@@ -1,0 +1,1 @@
+INSERT INTO mod_token (public_key, private_key, token_key, token_agent, token_date) VALUE ('##public_key##', '##private_key##', '##token_key##', '##token_agent##', '##token_date##')

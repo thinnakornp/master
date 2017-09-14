@@ -1,0 +1,8 @@
+[Date:2017-09-13 17:49:44] [IP:127.0.0.1] [//]
+[Query:select * from formula]
+[Error Massage:Table 'etax_test.formula' doesn't exist]
+====================================
+[Date:2017-09-13 17:49:46] [IP:127.0.0.1] [//]
+[Query:select * from formula]
+[Error Massage:Table 'etax_test.formula' doesn't exist]
+====================================

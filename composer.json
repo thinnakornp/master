@@ -1,0 +1,6 @@
+{
+    "require": {
+        "adodb/adodb-php": "^5.20",
+        "phpoffice/phpexcel": "^1.8"
+    }
+}

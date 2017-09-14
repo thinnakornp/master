@@ -1,0 +1,1 @@
+SELECT user_id, user_fullname, org_id FROM users WHERE org_id in (##org##) order by org_id
